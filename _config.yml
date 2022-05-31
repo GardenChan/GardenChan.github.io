@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: gardenchan
+disqus_username: my-github-pages-1
 
 # Netease settings
 netease_comment: true
@@ -78,7 +78,7 @@ netease_comment: true
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "陈佳鼎，软件开发工程师，编程语言/云原生初心者 <br> An UI/Frontend dev & designer accidentally growing into a compiler/PL hacker."
+sidebar-about-description: "陈佳鼎，软件工程师，云计算从业者 <br> An /Frontend dev & designer accidentally growing into a compiler/PL hacker."
 sidebar-avatar: https://github.com/GardenChan.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
