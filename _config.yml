@@ -19,6 +19,7 @@ github_username: GardenChan
 # twitter_username: huxpro
 #facebook_username:  huxpro
 linkedin_username:  firstname-lastname-idxxxx
+# wechat_username: gardenchan
 
 
 
@@ -106,28 +107,28 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序（Midare）",
-        href: "http://mida.re/"
+        title: "MySQL",
+        href: "https://www.mysql.com/"
     },{
-        title: "Sherry Woo",
-        href: "https://sherrywoo.me/"
+        title: "K8s",
+        href: "https://kubernetes.io/"
     },{
-        title: "Kun Qian",
-        href: "http://kunq.me"
+        title: "gRPC",
+        href: "https://www.grpc.io/"
     },{
-        title: "Ebn Zhang",
-        href: "http://ebnbin.com/"
+        title: "Spring",
+        href: "https://spring.io/"
     },{
-        title: "SmdCn",
-        href: "http://blog.smdcn.net"
+        title: "WebAssembly",
+        href: "https://webassembly.org/"
     },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
+        title: "Golang",
+        href: "https://golang.google.cn/"
     },{
-        title: "DHong Say",
-        href: "http://dhong.co"
+        title: "Docker",
+        href: "https://www.docker.com/"
     },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "语雀",
+        href: "https://www.yuque.com/"
     }
 ]
