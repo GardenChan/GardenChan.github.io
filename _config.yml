@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: cjdxjtu@qq.com
 description: "关于程序与设计、云计算与摄影 | Garden，Web & photography Lover，Software Engineer， | 这里是 Garden 的个人博客，与你一起发现更大的世界。"
 keyword: "Garden, GardenChen, 秦漳, 西安交通大学, Garden的博客, Garden's Blog, 博客, 个人网站, 互联网, Web, Golang, 后端, 云原生, Java, Python"
-url: "https://blog.myharbour.cn"              # your host, for absolute URL
+url: "https://blog.cjd2022.xyz"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -18,8 +18,10 @@ zhihu_username: gardenchan
 github_username: GardenChan
 # twitter_username: 
 #facebook_username:  
-linkedin_username:  firstname-lastname-idxxxx
+# linkedin_username:  firstname-lastname-idxxxx
 # wechat_username: gardenchan
+douyin_username: MS4wLjABAAAAboEE0Qj6kR5ZCGZbarlc91POcYU5UColjX9cJIc9l31EI4LfCVsnUYyTu6CIu3xu
+csdn_username: weixin_44870909
 
 
 
@@ -80,7 +82,7 @@ ba_track_id: [b77fb9e5c397c998c29c7859689e8166]
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Garden-东方甲<br>本硕毕业于西安交通大学<br>软件开发工程师<br>深耕云计算行业"
-sidebar-avatar: https://github.com/GardenChan.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/sidebar-avatar.jpg # https://github.com/GardenChan.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
