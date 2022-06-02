@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "小白入门SpringBoot项目之员工管理系统"
-subtitle: "收藏和推荐优秀的后端技术博客"
+subtitle: "小白入门系列项目"
 date: 2020-11-17
 author: "Garden"
 header-img: "img/post-bg-2015.jpg"

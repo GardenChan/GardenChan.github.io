@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MybatisPlus的条件构造器常用的构造函数总结"
-subtitle: "收藏和推荐优秀的后端技术博客"
+subtitle: "MyBatis-Plus是一个MyBatis的增强工具，在MyBatis的基础上只做增强不做改变，为简化开发、提高效率而生。"
 date: 2020-09-23
 author: "Garden"
 header-img: "img/post-bg-2015.jpg"

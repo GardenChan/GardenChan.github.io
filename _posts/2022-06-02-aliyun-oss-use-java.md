@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "一文读懂什么是阿里云OSS，如何使用Java操作阿里云OSS？"
-subtitle: "收藏和推荐优秀的后端技术博客"
+subtitle: "阿里云对象存储OSS（Object Storage Service）是一款海量、安全、低成本、高可靠的云存储服务，提供99.9999999999%(12个9)的数据持久性，99.995%的数据可用性。"
 date: 2020-10-18
 author: "Garden"
 header-img: "img/post-bg-2015.jpg"

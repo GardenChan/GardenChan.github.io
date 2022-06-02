@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "阿里巴巴开源excel处理框架EasyExcel的简单使用"
-subtitle: "收藏和推荐优秀的后端技术博客"
+subtitle: "JAVA解析Excel工具EasyExcel"
 date: 2020-10-18
 author: "Garden"
 header-img: "img/post-bg-2015.jpg"
