@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sso development 3 step"
+title: "登录业务的演变、单点登录（SSO）的三种解决方案"
 subtitle: "技术的发展不是一蹴而就的，都是伴随在业务需求之后逐步演化的"
 date: 2020-11-17
 author: "Garden"
