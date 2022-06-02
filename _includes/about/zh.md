@@ -7,10 +7,8 @@
 【中间件】 RabbitMQ, RocketMQ, Kafka等  
 【框架】 Spring, Spring Boot, Spring Cloud, Dubbo, MyBatis, Gin, Gorm, gRPC等  
 【云原生技术】 Docker、K8s等  
-不定期分享以上技术相关文章  
-目前是刚毕业的深漂~  
-- 📫 How to reach me: cjdxjtu@qq.com
-
-
+* 不定期分享以上技术相关文章  
+* 目前是刚毕业的深漂~  
+- 我的邮箱📫: cjdxjtu@qq.com
 
 ##### 资源分享
