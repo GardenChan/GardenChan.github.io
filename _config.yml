@@ -82,7 +82,7 @@ ba_track_id: [102df2215b07ad90a493a90a83d7e454]
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Garden-东方甲<br>本硕毕业于西安交通大学<br>软件开发工程师<br>深耕云计算行业"
+sidebar-about-description: "Garden-东方甲<br>本硕毕业于西安交通大学<br>软件开发工程师<br>深耕云计算行业<br>UiPath兴趣玩家<br>业余摄影 羽毛球爱好者"
 sidebar-avatar: /img/sidebar-avatar.jpg # https://github.com/GardenChan.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
