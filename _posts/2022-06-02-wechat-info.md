@@ -14,7 +14,7 @@ tags: [赞助]
 
      |                             微信                             |                            支付宝                            |
      | :----------------------------------------------------------: | :----------------------------------------------------------: |
-     | <img src="img\donate\wechat-donate.jpg" style="zoom:16%;" /> | <img src="img\donate\alipay-donate.jpg" style="zoom:15%;" /> |
+     | <img src="\img\donate\wechat-donate.jpg" style="zoom:16%;" /> | <img src="\img\donate\alipay-donate.jpg" style="zoom:15%;" /> |
      
 
 
