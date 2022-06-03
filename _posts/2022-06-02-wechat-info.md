@@ -14,12 +14,12 @@ tags: [赞助]
 
      |                             微信                             |                            支付宝                            |
      | :----------------------------------------------------------: | :----------------------------------------------------------: |
-     | <img src="C:\Users\Jiading chen\Desktop\GardenChan.github.io\img\donate\wechat-donate.jpg" style="zoom:16%;" /> | <img src="C:\Users\Jiading chen\Desktop\GardenChan.github.io\img\donate\alipay-donate.jpg" style="zoom:15%;" /> |
+     | <img src="img\donate\wechat-donate.jpg" style="zoom:16%;" /> | <img src="img\donate\alipay-donate.jpg" style="zoom:15%;" /> |
      
 
 
 
 * ✨也非常欢迎关注我的公众号✨
 
-    <img src="C:\Users\Jiading chen\Desktop\GardenChan.github.io\img\wechat\wechat-goguide.png" style="zoom:18%;" />     <img src="C:\Users\Jiading chen\Desktop\GardenChan.github.io\img\wechat\wechat-UiPath.png" style="zoom:18%;" />
+    <img src="\img\wechat\wechat-goguide.png" style="zoom:18%;" />     <img src="\img\wechat\wechat-UiPath.png" style="zoom:18%;" />
 
