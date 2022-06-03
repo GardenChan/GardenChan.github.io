@@ -20,6 +20,6 @@ tags: [赞助]
 
 
 * ✨也非常欢迎关注我的公众号✨
-
-    <img src="\img\wechat\wechat-goguide.png" style="zoom:18%;" />     <img src="\img\wechat\wechat-UiPath.png" style="zoom:18%;" />
+      <img src="\img\wechat\wechat-goguide.png" style="zoom:18%;" />     
+      <img src="\img\wechat\wechat-UiPath.png" style="zoom:18%;" />
 
