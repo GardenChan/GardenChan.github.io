@@ -7,3 +7,19 @@ author: "Garden"
 header-img: "img/post-bg-2015.jpg"
 tags: [赞助]
 ---
+
+* 如果你在这里有所收获，可以请我喝一杯咖啡🍮~
+
+* 你的鼓励和支持✊，是我创作和分享的动力源泉🌟！
+
+     |                             微信                             |                            支付宝                            |
+     | :----------------------------------------------------------: | :----------------------------------------------------------: |
+     | <img src="C:\Users\Jiading chen\Desktop\GardenChan.github.io\img\donate\wechat-donate.jpg" style="zoom:16%;" /> | <img src="C:\Users\Jiading chen\Desktop\GardenChan.github.io\img\donate\alipay-donate.jpg" style="zoom:15%;" /> |
+     
+
+
+
+* ✨也非常欢迎关注我的公众号✨
+
+    <img src="C:\Users\Jiading chen\Desktop\GardenChan.github.io\img\wechat\wechat-goguide.png" style="zoom:18%;" />     <img src="C:\Users\Jiading chen\Desktop\GardenChan.github.io\img\wechat\wechat-UiPath.png" style="zoom:18%;" />
+
