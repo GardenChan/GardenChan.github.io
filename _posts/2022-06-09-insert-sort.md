@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "insert sort"
+title: "【排序算法系列 3】 插入排序"
 subtitle: "data structure and algorithm insert sort"
 date: 2020-10-20
 author: "Garden"
