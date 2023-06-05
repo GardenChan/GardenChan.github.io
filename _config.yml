@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: cjdxjtu@qq.com
 description: "关于程序与设计、云计算与摄影 | Garden，Web & photography Lover，Software Engineer， | 这里是 Garden 的个人博客，与你一起发现更大的世界。"
 keyword: "Garden, GardenChen, 秦漳, 西安交通大学, Garden的博客, Garden's Blog, 博客, 个人网站, 互联网, Web, Golang, 后端, 云原生, Java, Python"
-url: "https://blog.cjd2022.xyz"              # your host, for absolute URL
+url: "https://cjd1996.xyz"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
