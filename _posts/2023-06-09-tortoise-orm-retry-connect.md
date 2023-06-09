@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "tortoise orm 支持数据库重连能力"
+title: "tortoise-orm 支持数据库重连能力"
 subtitle: "主备切换下如何从断开的数据库连接中恢复"
 date: 2023-06-09
 author: "Garden"
 header-img: "img/post-bg-2015.jpg"
-tags: ["Python","tortoise-orm","MySQL]
+tags: ["Python","tortoise-orm","MySQL"]
 ---
 
 # 背景

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tortoise orm 支持数据库读写分离"
+title: "tortoise-orm 支持数据库读写分离"
 subtitle: "轻松实现数据库读写分离配置"
 date: 2023-06-09
 author: "Garden"
